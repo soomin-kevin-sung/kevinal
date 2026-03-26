@@ -1,0 +1,15 @@
+{
+  "identifier": "default",
+  "description": "Default capabilities for kevinal",
+  "windows": ["*"],
+  "permissions": [
+    "core:default",
+    "core:window:default",
+    "core:window:allow-create",
+    "core:window:allow-close",
+    "core:window:allow-set-title",
+    "core:window:allow-set-focus",
+    "core:webview:default",
+    "shell:allow-open"
+  ]
+}
